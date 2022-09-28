@@ -1,0 +1,11 @@
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\bin\Debug\ABMC_Empleados.exe.config
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\bin\Debug\ABMC_Empleados.exe
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\bin\Debug\ABMC_Empleados.pdb
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\obj\Debug\ABMC_Empleados.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\obj\Debug\ABMC_Empleados.csproj.SuggestedBindingRedirects.cache
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\obj\Debug\ABMC_Empleados.Form1.resources
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\obj\Debug\ABMC_Empleados.Properties.Resources.resources
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\obj\Debug\ABMC_Empleados.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\obj\Debug\ABMC_Empleados.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\obj\Debug\ABMC_Empleados.exe
+D:\VISUAL STUDIO\practicos\ABMC_Empleados\ABMC_Empleados\obj\Debug\ABMC_Empleados.pdb
